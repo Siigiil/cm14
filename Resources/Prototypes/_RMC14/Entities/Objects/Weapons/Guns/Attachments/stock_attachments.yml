@@ -162,6 +162,8 @@
       accuracyAddMult: -0.25
       recoilFlat: 1
       scatterFlat: 10
+    fireModeMods:
+    - extraFireModes: Burst
 
 - type: entity
   parent: RMCStockAttachmentBase

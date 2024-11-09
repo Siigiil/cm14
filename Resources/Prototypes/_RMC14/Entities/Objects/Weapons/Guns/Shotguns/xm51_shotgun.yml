@@ -18,7 +18,7 @@
       gun_magazine: !type:ContainerSlot
       gun_chamber: !type:ContainerSlot
   - type: Gun
-    shotsPerBurst: 1
+    shotsPerBurst: 2
     selectedMode: SemiAuto
     availableModes:
     - SemiAuto
